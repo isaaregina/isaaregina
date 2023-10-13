@@ -3,7 +3,7 @@ Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaregina&layout=compact)](https://github.com/isaaregina)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaregina&layout=compact&theme=dark)](https://github.com/isaaregina)
 
 <br>
 
