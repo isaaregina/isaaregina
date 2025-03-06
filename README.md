@@ -7,7 +7,7 @@ Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. 
 
 <br>
 
-### ⚙️ Tecnologias
+<!-- ### ⚙️ Tecnologias
 <div style= "display:inline-block"> <br>
 <img src="https://devicons.dev.br/icons?icon=HTML,CSS,JavaScript,Java,Spring,CS,C,DotNet&theme=dark" />
 <img align=right src="https://github.com/isaaregina/isaaregina/assets/114022518/a050af1a-1cd1-46d0-8e32-58f77effbec2" alt="isa" width=140 />
@@ -15,6 +15,7 @@ Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. 
 
 
 <br>
+-->
 
 ### 💫 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-regina-019222238/)
