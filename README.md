@@ -1,5 +1,5 @@
 ## Olá, Eu sou a Isabella Regina 👋🏽 
-Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. Atualmente, sou estagiária em desenvolvimento de software na Avanade. Minha jornada na programação começou de uma maneira inusitada - durante um curso de técnico em multimídia, me apaixonei pelas aulas de HTML. Isso me motivou a ingressar na faculdade de Engenharia de Software, onde venho aprimorando constantemente meu conhecimento em programação. Tenho habilidade para aprender rapidamente novas linguagens de programação, sou determinada e também resiliente quando quero atingir um objetivo. Estou ansiosa para enfrentar desafios e continuar crescendo como desenvolvedora.
+Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. Minha jornada na programação começou de uma maneira inusitada - durante um curso de técnico em multimídia, me apaixonei pelas aulas de HTML. Isso me motivou a ingressar na faculdade de Engenharia de Software, onde venho aprimorando constantemente meu conhecimento em programação. Tenho habilidade para aprender rapidamente novas linguagens de programação, sou determinada e também resiliente quando quero atingir um objetivo. Estou ansiosa para enfrentar desafios e continuar crescendo como desenvolvedora.
 
 <br>
 
