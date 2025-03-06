@@ -5,7 +5,6 @@ Olá! Sou uma graduanda em Engenharia de Software apaixonada por programação. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaregina&layout=compact&theme=dark)](https://github.com/isaaregina)
 
-<br>
 
 <!-- ### ⚙️ Tecnologias
 <div style= "display:inline-block"> <br>
